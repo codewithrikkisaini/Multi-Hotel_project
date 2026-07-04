@@ -1,0 +1,17 @@
+/node_modules
+/vendor
+/public/storage
+/public/hot
+/storage/*.key
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.vite
+.claude
+.idea
+.vscode
+npm-debug.log
+yarn-error.log
+plan.md
+git_status_test.txt
